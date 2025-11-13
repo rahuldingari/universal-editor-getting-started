@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/rahul-ue-setup/:/",
+    "/content/rahul-ue-setup/configuration:/.helix/config.json",
+    "/content/rahul-ue-setup/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/rahul-ue-setup/"
   ]
 }
